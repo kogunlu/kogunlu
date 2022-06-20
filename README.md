@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Kuday Ogunlu!  
+## Hello Visitor! 👋 I'm Kuday Ogunlu!  
   
 
 <a href="https://github.com//kogunlu" target="_blank">
