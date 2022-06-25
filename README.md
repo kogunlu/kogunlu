@@ -18,7 +18,7 @@
 
 
 ### It's great to see you here!  
-I am a full-time IT recruiter who is curious about not only coding and also computer science as a whole. 
+I am a full-time IT recruiter who is curious about not only coding but also computer science as a whole. 
 
 I have been self-learning software development with the languages of Java, Kotlin, and database management with PostgreSQL.
 
