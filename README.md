@@ -1,5 +1,5 @@
 # 💫 About Me:
-It's great to see you here!<br>I am a Master's Degree student in Management Information Systems and a full-time IT recruiter who is curious about not only  coding and also computer science as a whole.<br><br>This is just the beginning of my journey!
+It's great to see you here!<br>I am a Master's Degree student in Management Information Systems and a Jr. Frontend Developer who is curious about not only  coding and also computer science as a whole.<br><br>This is just the beginning of my journey!
 
 
 ## 🌐 Socials:
